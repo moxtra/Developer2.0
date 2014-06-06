@@ -1878,7 +1878,7 @@ a.logo.dark:hover{
 	bottom: auto;
 	top: 50%;
 	margin-top: -84px;
-	color: #fff;
+	color: #666;
 	z-index: 3; 
 }
 .work-item:hover .work-intro:after{
@@ -1887,11 +1887,11 @@ a.logo.dark:hover{
 	max-width: 32px;
 	height: 1px;
 	margin: 20px auto 0;
-	background: #fff;
+	background: #666;
 }
 .work-item:hover .work-title,
 .work-item:hover .work-descr{
-	color: #fff;
+	color: #666;
 }
 .work-item .work-img:after{
 	content: " ";
@@ -1905,7 +1905,7 @@ a.logo.dark:hover{
 	
 }
 .work-item:hover .work-img:after{	
-	background: rgba(229,64,40, .95);
+	background: rgba(255,255,255, .95);
 }
 
 /* Filtering */
@@ -2280,8 +2280,8 @@ a.logo.dark:hover{
  */
 
 .clients-logos{
-	border-top: 1px solid #eaeaea; 
-	border-bottom: 1px solid #eaeaea; 
+	border-top: 0px solid #eaeaea; 
+	border-bottom: 0px solid #eaeaea; 
 }
 .clients-logos-row{
 	display: table;
@@ -2320,9 +2320,6 @@ a.logo.dark:hover{
     background-position: center;
     background-size: 60%;
 	
-	-webkit-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
-	-moz-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
-	box-shadow: 0px 0px 20px rgba(0,0,0, .06);
 }
 .client-item2{
 	width: 200px;
@@ -2353,9 +2350,6 @@ a.logo.dark:hover{
     background-position: center;
     background-size: 60%;
 	
-	-webkit-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
-	-moz-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
-	box-shadow: 0px 0px 20px rgba(0,0,0, .06);
 }
 .client-item3{
 	width: 200px;
@@ -2386,9 +2380,6 @@ a.logo.dark:hover{
     background-position: center;
     background-size: 60%;
 	
-	-webkit-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
-	-moz-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
-	box-shadow: 0px 0px 20px rgba(0,0,0, .06);
 }
 .client-item4{
 	width: 200px;
@@ -2418,10 +2409,6 @@ a.logo.dark:hover{
   	background-repeat: no-repeat;
     background-position: center;
     background-size: 60%;
-	
-	-webkit-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
-	-moz-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
-	box-shadow: 0px 0px 20px rgba(0,0,0, .06);
 }
 
 .client-item:last-child{

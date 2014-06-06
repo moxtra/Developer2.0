@@ -68,7 +68,7 @@ blockquote,
 }
 
 .work-item:hover .work-img:after{	
-	background-color: rgba(41,122,211, .95);
+	background-color: rgba(255,255,255, .85);
 }
 
 .image-color-bg .banner-decription{
