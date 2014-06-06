@@ -1135,11 +1135,12 @@ a.logo.dark:hover{
 }
 .section-text{
 	margin-bottom: 0px;
-	font-family: Lora, "Times New Roman", Times, serif;
-	font-size: 13px;
+    font-family: 'Open Sans', sans-serif;	
+    font-size: 13px;
 	line-height: 2;
 	letter-spacing: 1px;
-	color: #777;
+	color: #999;
+	font-weight: 300;
 }
 
 .small-section{
