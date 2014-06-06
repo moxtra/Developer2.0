@@ -2288,7 +2288,7 @@ a.logo.dark:hover{
 .clients-logos-row:last-child{
 	border-bottom: none; 
 }
-.client-item{
+.client-item1{
 	width: 200px;
 	height: 85px;
 	display: table-cell;
@@ -2298,24 +2298,136 @@ a.logo.dark:hover{
 	box-sizing: border-box;
 	vertical-align: middle;
 	text-align: center;
-	
+  	background: url("../images/clients-logos/client-1.png") ;
+
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+            
 	-webkit-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);  
     -moz-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000); 
     -o-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);
     -ms-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000); 
     transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);
 }
-.client-item:hover{
+
+.client-item1:hover{
+  	background: url("../images/clients-logos/client-1color.png");
+  	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+	
 	-webkit-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
 	-moz-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
 	box-shadow: 0px 0px 20px rgba(0,0,0, .06);
 }
+.client-item2{
+	width: 200px;
+	height: 85px;
+	display: table-cell;
+	border-right: 1px solid #eaeaea;
+	padding: 10px;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	vertical-align: middle;
+	text-align: center;
+  	background: url("../images/clients-logos/client-2.png") ;
+
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+            
+	-webkit-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);  
+    -moz-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000); 
+    -o-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);
+    -ms-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000); 
+    transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);
+}
+
+.client-item2:hover{
+  	background: url("../images/clients-logos/client-2color.png");
+  	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+	
+	-webkit-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+	-moz-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+	box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+}
+.client-item3{
+	width: 200px;
+	height: 85px;
+	display: table-cell;
+	border-right: 1px solid #eaeaea;
+	padding: 10px;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	vertical-align: middle;
+	text-align: center;
+  	background: url("../images/clients-logos/client-3.png") ;
+
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+            
+	-webkit-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);  
+    -moz-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000); 
+    -o-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);
+    -ms-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000); 
+    transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);
+}
+
+.client-item3:hover{
+  	background: url("../images/clients-logos/client-3color.png");
+  	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+	
+	-webkit-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+	-moz-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+	box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+}
+.client-item4{
+	width: 200px;
+	height: 85px;
+	display: table-cell;
+	border-right: 1px solid #eaeaea;
+	padding: 10px;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	vertical-align: middle;
+	text-align: center;
+  	background: url("../images/clients-logos/client-4.png") ;
+
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+            
+	-webkit-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);  
+    -moz-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000); 
+    -o-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);
+    -ms-transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000); 
+    transition: all 0.17s cubic-bezier(0, 0.000, 0.580, 1.000);
+}
+
+.client-item4:hover{
+  	background: url("../images/clients-logos/client-4color.png");
+  	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+	
+	-webkit-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+	-moz-box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+	box-shadow: 0px 0px 20px rgba(0,0,0, .06);
+}
+
 .client-item:last-child{
 	border-right: none;
 }
 
 .client-item img {
     max-width: 100%;
+
 }
 
 .client-review{
