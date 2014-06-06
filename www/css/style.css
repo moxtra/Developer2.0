@@ -296,7 +296,7 @@ blockquote{
 	font-size: 13px;
 	line-height: 1.7;
 	letter-spacing: 1px;
-	color: #777;
+	color: #808890;
 }
 blockquote p{
 	margin-bottom: 0.5em;
@@ -1127,8 +1127,10 @@ a.logo.dark:hover{
 .section-heading{
 	margin-top: 0;
 	margin-bottom: 35px;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
-	font-weight: 700;
+	font-weight: 500;
+	color: #666;
 	line-height: 2;
 }
 .section-text{
@@ -2170,7 +2172,7 @@ a.logo.dark:hover{
 .tc-icon{
 	margin-bottom: 30px;
 	font-size: 48px;
-	color: rgba(255,255,255, .9);
+	color: rgba(255,255,255, 1.0);
 }
 .tc-icon a,
 .tc-icon a .fa{
@@ -2213,7 +2215,7 @@ a.logo.dark:hover{
 	font-weight: 200;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: #232323;
+	color: #666;
 }
 .tc-author a{
 	color: #777;
@@ -2261,12 +2263,12 @@ a.logo.dark:hover{
 }
 .tc-arrow-left:hover,
 .tc-arrow-right:hover{
-	border-color: rgba(255,255,255, .5);
-	color: #fff;
+	border-color: rgba(45,149,255, .5);
+	color: #2d95ff;
 }
 .tc-arrow-left:hover .fa,
 .tc-arrow-right:hover .fa{
-	color: #fff;
+	color: #2d95ff;
 }
 
 
