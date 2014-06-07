@@ -1764,8 +1764,8 @@ a.logo.dark:hover{
 	text-transform: uppercase;
 	text-align: center;
 	letter-spacing: 1px;
-	color: #151515;
-	border-top: 1px solid #151515;
+	color: #666;
+	border-top: 1px solid #666;
 	cursor: default;
 }
 .works-filter li{
@@ -1787,14 +1787,14 @@ a.logo.dark:hover{
 	color: #777;
 }
 .works-filter li.active{
-	border-top: 3px solid #151515;
+	border-top: 3px solid #666;
 	cursor: default;
 }
 .works-filter li.active:hover{
-	color: #151515;
+	color: #666;
 }
 .works-filter a{
-	color: #151515;
+	color: #666;
 	text-decoration: none;
 }
 
@@ -2032,9 +2032,9 @@ a.logo.dark:hover{
 .work-full-title{
 	margin: 0 0 10px 0;
 	padding: 0;
-	font-size: 16px;
-	font-weight: 700;
-	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 500;
+	color: #666;
 	text-align: center;
 	letter-spacing: 1px;
 }
