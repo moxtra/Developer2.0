@@ -1139,7 +1139,7 @@ a.logo.dark:hover{
     font-size: 13px;
 	line-height: 2;
 	letter-spacing: 1px;
-	color: #999;
+	color: #858688;
 	font-weight: 300;
 }
 
@@ -2287,7 +2287,7 @@ a.logo.dark:hover{
 .clients-logos-row{
 	display: table;
 	width: 100%;
-	border-bottom: 1px solid #eaeaea; 
+	border-bottom: 0px solid #eaeaea; 
 }
 .clients-logos-row:last-child{
 	border-bottom: none; 
