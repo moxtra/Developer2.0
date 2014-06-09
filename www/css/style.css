@@ -2147,9 +2147,8 @@ a.logo.dark:hover{
 	color: #949698;
 }
 
-.benefit-title2{
+.benefit-title{
 	margin: 0 0 17px 0;
-	padding-left: 10px;
 	font-size: 18px;
 	font-weight: 500;
 	letter-spacing: 0px;
@@ -2157,17 +2156,31 @@ a.logo.dark:hover{
 	text-align: left;
 }
 
-.benefit-title{
+.benefit-title2{
 	margin: 0 0 17px 0;
 	padding-left: 10px;
-	padding-top:35px;
+	padding-top:40px;
 	font-size: 18px;
 	font-weight: 500;
 	letter-spacing: 0px;
 	color: #666;
 	text-align: left;
 }
+
+
 .benefits-descr{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	/*font-style: italic;*/
+	letter-spacing: 0px;
+	font-weight:300;
+	color: #949698;
+	text-align: left;
+	padding-bottom:35px;
+
+}
+
+.benefits-descr2{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	/*font-style: italic;*/
