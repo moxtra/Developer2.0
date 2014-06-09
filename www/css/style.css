@@ -1760,6 +1760,7 @@ a.logo.dark:hover{
 	list-style: none;
 	padding: 0;
 	margin: 0 0 70px 0;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 11px;
 	text-transform: uppercase;
 	text-align: center;
@@ -1856,7 +1857,7 @@ a.logo.dark:hover{
 	letter-spacing: 1px;
 }
 .work-descr{
-	font-family: Lora, "Times New Roman", Times, serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	font-style: italic;
 	text-align: center;
