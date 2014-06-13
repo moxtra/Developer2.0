@@ -228,7 +228,7 @@ img:not([draggable]), embed, object, video {
 body{
 	color: #151515;
 	font-size: 14px;
-	font-family: montserrat, arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	line-height: 1.6;	
 	-webkit-font-smoothing: antialiased;
 }
@@ -270,9 +270,9 @@ p{
 	margin: 0 0 1.3em 0;
 }
 .text{
-	font-family: Lora, "Times New Roman", Times, serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
-	font-weight: 400;
+	font-weight: 300;
 	text-transform: none;
 	line-height: 1.7;
 	letter-spacing: 1px;
