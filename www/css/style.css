@@ -1889,10 +1889,7 @@ a.logo.dark:hover{
 	height: 1px;
 	margin: 20px auto 0;
 	background: #666;
-}
-.work-item:hover .work-title,
-.work-item:hover .work-descr{
-	color: #666;
+
 }
 .work-item .work-img:after{
 	content: " ";
