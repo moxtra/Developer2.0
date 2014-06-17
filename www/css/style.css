@@ -3546,15 +3546,15 @@ a.blog-item-more:hover{
 }
 
 
-.faq h1{font-size:2em;margin:.67em 0 }
-.faq h2{font-size:1.5em;margin:.83em 0}
+.faq h1{font-size:2em;margin:.67em 0; }
+.faq h2{font-size:1.5em; margin:.83em 0; padding-bottom:0 ; color: #666666;}
 .faq h3{font-size:1.17em;margin:1em 0} 
 .faq h4{font-size:1em;margin:1.33em 0}
 .faq h5{font-size:.83em;margin:1.67em 0}
 .faq h6{font-size:.67em;margin:2.33em 0}
 
 .faq p {
-	margin:1em 0;
+	margin:1em 0; color: #828486; font-weight: 300; line-height: 2;
 }
 
 
